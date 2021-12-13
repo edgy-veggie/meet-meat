@@ -3122,16 +3122,16 @@ body {
   background-image: url(../Animal\ icons/horse.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(15) {
-  background-image: url(../Animal\ icons/donkey.svg);
+  background-image: url(icons/donkey.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(15) .counter-image {
-  background-image: url(../Animal\ icons/donkey.svg);
+  background-image: url(icons/donkey.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(16) {
-  background-image: url(../Animal\ icons/camel.svg);
+  background-image: url(../icons/camel.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(16) .counter-image {
-  background-image: url(../Animal\ icons/camel.svg);
+  background-image: url(../icons/camel.svg);
 }
 .animal-slaughter .counter-share-loader {
   box-shadow: none !important;
