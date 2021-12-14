@@ -3095,31 +3095,31 @@ body {
   background-image: url(../Animal\ icons/cow.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(10) .counter-image {
-  background-image: url(../Animal\ icons/cow.svg);
+  background-image: url(icons/cow.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(11) {
-  background-image: url(../Animal\ icons/rat.svg);
+  background-image: url(icons/rat.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(11) .counter-image {
-  background-image: url(../Animal\ icons/rat.svg);
+  background-image: url(icons/rat.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(12) {
-  background-image: url(../Animal\ icons/bird.svg);
+  background-image: url(icons/bird.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(12) .counter-image {
-  background-image: url(../Animal\ icons/bird.svg);
+  background-image: url(icons/bird.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(13) {
-  background-image: url(../Animal\ icons/buffalo.svg);
+  background-image: url(icons/buffalo.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(13) .counter-image {
-  background-image: url(../Animal\ icons/buffalo.svg);
+  background-image: url(icons/buffalo.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(14) {
   background-image: url(../Animal\ icons/horse.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(14) .counter-image {
-  background-image: url(../Animal\ icons/horse.svg);
+  background-image: url(icons/horse.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(15) {
   background-image: url(icons/donkey.svg);
@@ -3128,10 +3128,10 @@ body {
   background-image: url(icons/donkey.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(16) {
-  background-image: url(../icons/camel.svg);
+  background-image: url(camel.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(16) .counter-image {
-  background-image: url(../icons/camel.svg);
+  background-image: url(camel.svg);
 }
 .animal-slaughter .counter-share-loader {
   box-shadow: none !important;
