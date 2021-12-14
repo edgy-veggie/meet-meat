@@ -3068,10 +3068,10 @@ body {
   background-image: url(../Animal\ icons/rabbit.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(6) {
-  background-image: url(../Animal\ icons/geese.svg);
+  background-image: url(../meet-meat/icons/geese.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(6) .counter-image {
-  background-image: url(../Animal\ icons/geese.svg);
+  background-image: url(../meet-meat/icons/geese.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(7) {
   background-image: url(../Animal\ icons/turkey.svg);
@@ -3089,13 +3089,13 @@ body {
   background-image: url(../Animal\ icons/goat.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(9) .counter-image {
-  background-image: url(../Animal\ icons/goat.svg);
+  background-image: url(../meet-meat\ icons/goat.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(10) {
-  background-image: url(../Animal\ icons/cow.svg);
+  background-image: url(../meet-meat\ icons/cow.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(10) .counter-image {
-  background-image: url(icons/cow.svg);
+  background-image: url(../meet-meat\ icons/cow.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(11) {
   background-image: url(icons/rat.svg);
