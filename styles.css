@@ -3038,64 +3038,64 @@ body {
   text-align: left;
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(2) {
-  background-image: url(../Animal\ icons/fish2.svg);
+  background-image: url(icons/fish.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(1) .counter-image {
-  background-image: url(../Animal\ icons/fish2.svg);
+  background-image: url(icons/fish.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(2) {
-  background-image: url(../Animal\ icons/chicken.svg);
+  background-image: url(icons/chicken.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(2) .counter-image {
-  background-image: url(../Animal\ icons/chicken.svg);
+  background-image: url(icons/chicken.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(3) {
-  background-image: url(../Animal\ icons/duck.svg);
+  background-image: url(icons/duck.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(3) .counter-image {
-  background-image: url(../Animal\ icons/duck.svg);
+ background-image: url(icons/duck.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(4) {
-  background-image: url(../Animal\ icons/pig.svg);
+  background-image: url(icons/pig.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(4) .counter-image {
-  background-image: url(../Animal\ icons/pig.svg);
+  background-image: url(icons/pig.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(5) {
-  background-image: url(../Animal\ icons/rabbit.svg);
+  background-image: url(icons/rabbit.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(5) .counter-image {
-  background-image: url(../Animal\ icons/rabbit.svg);
+  background-image: url(icons/rabbit.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(6) {
-  background-image: url(../meet-meat/icons/geese.svg);
+  background-image: url(icons/geese.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(6) .counter-image {
-  background-image: url(../meet-meat/icons/geese.svg);
+  background-image: url(icons/geese.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(7) {
-  background-image: url(../Animal\ icons/turkey.svg);
+  background-image: url(icons/turkey.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(7) .counter-image {
-  background-image: url(../Animal\ icons/turkey.svg);
+  background-image: url(icons/turkey.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(8) {
-  background-image: url(https://thevegancalculator.com/img/icons/sheep.svg);
+  background-image: url(icons/sheep.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(8) .counter-image {
-  background-image: url(https://thevegancalculator.com/img/icons/sheep.svg);
+  background-image: url(icons/sheep.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(9) {
-  background-image: url(../Animal\ icons/goat.svg);
+  background-image: url(icons/goat.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(9) .counter-image {
-  background-image: url(../meet-meat\ icons/goat.svg);
+  background-image: url(icons/goat.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(10) {
-  background-image: url(../meet-meat\ icons/cow.svg);
+  background-image: url(icons/cow.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(10) .counter-image {
-  background-image: url(../meet-meat\ icons/cow.svg);
+  background-image: url(icons/cow.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(11) {
   background-image: url(icons/rat.svg);
@@ -3116,7 +3116,7 @@ body {
   background-image: url(icons/buffalo.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(14) {
-  background-image: url(../Animal\ icons/horse.svg);
+  background-image: url(icons/horse.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(14) .counter-image {
   background-image: url(icons/horse.svg);
@@ -3128,10 +3128,10 @@ body {
   background-image: url(icons/donkey.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(16) {
-  background-image: url(camel.svg);
+  background-image: url(icons/camel.svg);
 }
 .animal-slaughter .slaughter-counter li:nth-of-type(16) .counter-image {
-  background-image: url(camel.svg);
+  background-image: url(icons/camel.svg);
 }
 .animal-slaughter .counter-share-loader {
   box-shadow: none !important;
