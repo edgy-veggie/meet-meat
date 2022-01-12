@@ -3155,3 +3155,8 @@ body {
   left: 0;
   top: 0;
 }
+
+.reference{
+    text-align: center;
+    font-size: 12px;
+}
